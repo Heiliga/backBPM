@@ -1,0 +1,13 @@
+ru\MTUCI\app\vacation\VacationApprovalPrepareRequestComplete.class
+ru\MTUCI\app\vacation\VacationApprovalCommonTaskCreate.class
+ru\MTUCI\app\AbstractDelegate.class
+ru\MTUCI\app\vacation\VacationApprovalStarted.class
+ru\MTUCI\app\AbstractDelegate$Mapping.class
+ru\MTUCI\app\AbstractDelegate$ProcessVariables.class
+ru\MTUCI\app\datetime\DateTimeServiceImpl.class
+ru\MTUCI\app\employee\EmployeeServiceImpl.class
+ru\MTUCI\app\AbstractDelegate$Variables.class
+ru\MTUCI\app\vacation\VacationApprovalApproveRequestComplete.class
+ru\MTUCI\app\AbstractDelegate$TaskVariables.class
+ru\MTUCI\app\vacation\VacationServiceImpl.class
+ru\MTUCI\app\vacation\VacationApprovalCommonTaskComplete.class

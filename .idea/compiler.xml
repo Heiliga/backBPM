@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="adapter-email" />
+        <module name="adapter-hibernate" />
+        <module name="adapter-rest-service" />
+        <module name="hr-jedi-adapter-rest-service" />
+        <module name="hr-jedi-app-impl" />
+        <module name="hr-jedi-framework" />
+        <module name="hr-jedi-app-api" />
+        <module name="framework" />
+        <module name="hr-jedi-domain" />
+        <module name="app-api" />
+        <module name="domain" />
+        <module name="app-impl" />
+        <module name="hr-jedi-adapter-hibernate" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="adapter" target="1.8" />
+      <module name="adapter-email" target="1.8" />
+      <module name="adapter-hibernate" target="1.8" />
+      <module name="adapter-rest-service" target="1.8" />
+      <module name="app" target="1.8" />
+      <module name="app-api" target="1.8" />
+      <module name="app-impl" target="1.8" />
+      <module name="domain" target="1.8" />
+      <module name="EV" target="1.8" />
+      <module name="framework" target="1.8" />
+      <module name="hr-jedi" target="1.8" />
+      <module name="hr-jedi-adapter" target="1.8" />
+      <module name="hr-jedi-adapter-accounting" target="1.8" />
+      <module name="hr-jedi-adapter-email" target="1.8" />
+      <module name="hr-jedi-adapter-hibernate" target="1.8" />
+      <module name="hr-jedi-adapter-rest-service" target="1.8" />
+      <module name="hr-jedi-app" target="1.8" />
+      <module name="hr-jedi-app-api" target="1.8" />
+      <module name="hr-jedi-app-impl" target="1.8" />
+      <module name="hr-jedi-domain" target="1.8" />
+      <module name="hr-jedi-framework" target="1.8" />
+      <module name="hr-jedi-parent" target="1.8" />
+      <module name="hr-jedi-senkovao-back" target="1.8" />
+      <module name="parent" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

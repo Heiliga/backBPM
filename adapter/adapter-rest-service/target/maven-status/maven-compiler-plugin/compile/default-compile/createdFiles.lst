@@ -1,0 +1,6 @@
+ru\MTUCI\adapter\restservice\dto\LoginFormDto.class
+ru\MTUCI\adapter\restservice\dto\StreamedDto.class
+ru\MTUCI\adapter\restservice\controller\EmployeeController.class
+ru\MTUCI\adapter\restservice\dto\DownloadableFileDto.class
+ru\MTUCI\adapter\restservice\dto\SignUpFormDto.class
+ru\MTUCI\adapter\restservice\dto\WorkbookDto.class

@@ -1,0 +1,10 @@
+ru\MTUCI\fw\HrJediApplication.class
+ru\MTUCI\fw\security\jwt\JwtAuthEntryPoint.class
+ru\MTUCI\fw\security\jwt\JwtResponse.class
+ru\MTUCI\fw\security\SecurityController.class
+ru\MTUCI\fw\security\UserPrinciple.class
+ru\MTUCI\fw\security\EmployeeBasedUserDetailService.class
+ru\MTUCI\fw\security\jwt\JwtAuthTokenFilter.class
+META-INF\spring-configuration-metadata.json
+ru\MTUCI\fw\security\jwt\JwtProvider.class
+ru\MTUCI\fw\security\WebSecurityConfig.class

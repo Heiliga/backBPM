@@ -1,0 +1,6 @@
+ru\MTUCI\domain\security\State.class
+ru\MTUCI\domain\Vacation.class
+ru\MTUCI\domain\Employee.class
+ru\MTUCI\domain\security\RoleName.class
+ru\MTUCI\domain\Office.class
+ru\MTUCI\domain\security\Role.class

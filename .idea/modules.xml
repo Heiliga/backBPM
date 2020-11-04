@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EV.iml" filepath="$PROJECT_DIR$/EV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adapter/adapter.iml" filepath="$PROJECT_DIR$/adapter/adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adapter/adapter-email/adapter-email.iml" filepath="$PROJECT_DIR$/adapter/adapter-email/adapter-email.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adapter/adapter-hibernate/adapter-hibernate.iml" filepath="$PROJECT_DIR$/adapter/adapter-hibernate/adapter-hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adapter/adapter-rest-service/adapter-rest-service.iml" filepath="$PROJECT_DIR$/adapter/adapter-rest-service/adapter-rest-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app-api/app-api.iml" filepath="$PROJECT_DIR$/app/app-api/app-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app-impl/app-impl.iml" filepath="$PROJECT_DIR$/app/app-impl/app-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain/domain.iml" filepath="$PROJECT_DIR$/domain/domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framework/framework.iml" filepath="$PROJECT_DIR$/framework/framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hr-jedi.iml" filepath="$PROJECT_DIR$/hr-jedi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hr-jedi-adapter/hr-jedi-adapter.iml" filepath="$PROJECT_DIR$/hr-jedi-adapter/hr-jedi-adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hr-jedi-adapter/hr-jedi-adapter-hibernate/hr-jedi-adapter-hibernate.iml" filepath="$PROJECT_DIR$/hr-jedi-adapter/hr-jedi-adapter-hibernate/hr-jedi-adapter-hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hr-jedi-adapter/hr-jedi-adapter-rest-service/hr-jedi-adapter-rest-service.iml" filepath="$PROJECT_DIR$/hr-jedi-adapter/hr-jedi-adapter-rest-service/hr-jedi-adapter-rest-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hr-jedi-app/hr-jedi-app.iml" filepath="$PROJECT_DIR$/hr-jedi-app/hr-jedi-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hr-jedi-app/hr-jedi-app-api/hr-jedi-app-api.iml" filepath="$PROJECT_DIR$/hr-jedi-app/hr-jedi-app-api/hr-jedi-app-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hr-jedi-app/hr-jedi-app-impl/hr-jedi-app-impl.iml" filepath="$PROJECT_DIR$/hr-jedi-app/hr-jedi-app-impl/hr-jedi-app-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hr-jedi-domain/hr-jedi-domain.iml" filepath="$PROJECT_DIR$/hr-jedi-domain/hr-jedi-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hr-jedi-framework/hr-jedi-framework.iml" filepath="$PROJECT_DIR$/hr-jedi-framework/hr-jedi-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hr-jedi-parent/hr-jedi-parent.iml" filepath="$PROJECT_DIR$/hr-jedi-parent/hr-jedi-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/hr-jedi-senkovao-back.iml" filepath="$PROJECT_DIR$/.idea/hr-jedi-senkovao-back.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/parent.iml" filepath="$PROJECT_DIR$/parent/parent.iml" />
+    </modules>
+  </component>
+</project>
