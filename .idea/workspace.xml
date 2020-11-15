@@ -19,7 +19,24 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b30466f0-c8e1-4106-9a52-d5d75ffb9071" name="Default Changelist" comment="Удалены права OMNI" />
+    <list default="true" id="b30466f0-c8e1-4106-9a52-d5d75ffb9071" name="Default Changelist" comment="Удалены права OMNI">
+      <change afterPath="$PROJECT_DIR$/adapter/adapter-rest-service/src/main/java/ru/MTUCI/adapter/restservice/controller/VacationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domain/src/main/java/ru/MTUCI/domain/dto/EmployeeDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domain/src/main/java/ru/MTUCI/domain/dto/VacationDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapter/adapter-email/adapter-email.iml" beforeDir="false" afterPath="$PROJECT_DIR$/adapter/adapter-email/adapter-email.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapter/adapter-hibernate/adapter-hibernate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/adapter/adapter-hibernate/adapter-hibernate.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapter/adapter-hibernate/src/main/java/ru/MTUCI/hibernate/vacation/VacationRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/adapter/adapter-hibernate/src/main/java/ru/MTUCI/hibernate/vacation/VacationRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapter/adapter-rest-service/adapter-rest-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/adapter/adapter-rest-service/adapter-rest-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app-api/app-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app-api/app-api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app-api/src/main/java/ru/MTUCI/app/vacation/VacationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/app-api/src/main/java/ru/MTUCI/app/vacation/VacationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app-impl/app-impl.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app-impl/app-impl.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app-impl/src/main/java/ru/MTUCI/app/vacation/VacationServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/app-impl/src/main/java/ru/MTUCI/app/vacation/VacationServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain/domain.iml" beforeDir="false" afterPath="$PROJECT_DIR$/domain/domain.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/domain/src/main/java/ru/MTUCI/domain/Vacation.java" beforeDir="false" afterPath="$PROJECT_DIR$/domain/src/main/java/ru/MTUCI/domain/Vacation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework/framework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/framework/framework.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +56,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2\plugins\maven\lib\maven3" />
+        <option name="mavenHome" value="D:\Program Files\JetBrains\IntelliJ IDEA 2020.2.1\plugins\maven\lib\maven3" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -52,9 +69,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/app-impl/src/main/java/ru/MTUCI" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Project-Senkova-front" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -97,6 +116,19 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -163,6 +195,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HrJediApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="framework" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.MTUCI.fw.HrJediApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Backend" />
       <item itemvalue="Application.HrJediApplication" />
@@ -170,6 +209,7 @@
       <item itemvalue="JUnit.EmployeeServiceImplTest.MapCountEmployee" />
       <item itemvalue="JUnit.EmployeeServiceImplTest.getMapCountEmployee (1)" />
       <item itemvalue="JUnit.EmployeeServiceImplTest.getMapCountEmployee" />
+      <item itemvalue="Spring Boot.HrJediApplication" />
     </list>
     <recent_temporary>
       <list>
@@ -189,6 +229,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596637781672</updated>
+      <workItem from="1604478213976" duration="3336000" />
+      <workItem from="1605427025711" duration="2422000" />
     </task>
     <task id="LOCAL-00001" summary="Modified code after task EDU-17878">
       <created>1596725673077</created>
@@ -410,6 +452,9 @@
     <option name="localTasksCounter" value="32" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
       <list>
@@ -484,6 +529,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="513" y="280" width="527" height="290" key="#Project_Settings/0.0.1536.824@0.0.1536.824" timestamp="1597929643127" />
+    <state x="248" y="0" key="#Project_Structure" timestamp="1604478530117">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="248" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1604478530117" />
     <state x="755" y="0" width="781" height="824" key="#SonarLint" timestamp="1597927416480">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -492,14 +541,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="95" y="107" width="1089" height="717" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1601119436895" />
-    <state x="509" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596726408410">
+    <state x="573" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1605430258001">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="509" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1596726408410" />
-    <state x="671" y="276" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1596638191592">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="671" y="276" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1536.824@0.0.1536.824" timestamp="1596638191592" />
+    <state x="573" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1605430258001" />
     <state x="370" y="247" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1597765871572">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -660,14 +705,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="420" y="320" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1597941363341" />
-    <state x="572" y="457" width="672" height="677" key="run.anything.popup" timestamp="1601885898127">
+    <state x="572" y="458" width="672" height="677" key="run.anything.popup" timestamp="1604480219366">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="572" y="457" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1601885898127" />
-    <state x="425" y="66" width="672" height="678" key="search.everywhere.popup" timestamp="1601248648847">
+    <state x="572" y="458" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1604480219366" />
+    <state x="425" y="66" width="672" height="678" key="search.everywhere.popup" timestamp="1604480465296">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="425" y="66" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1601248648847" />
+    <state x="425" y="66" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1604480465296" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

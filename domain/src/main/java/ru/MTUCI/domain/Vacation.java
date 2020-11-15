@@ -46,6 +46,8 @@ public class Vacation implements Serializable {
     @JsonSerialize(using = LocalDateSerializer.class)
     private LocalDate end;
 
+    private boolean accepted;
+
     public Vacation() {
     }
 
@@ -85,5 +87,13 @@ public class Vacation implements Serializable {
 
     public void setEnd(LocalDate end) {
         this.end = end;
+    }
+
+    public boolean isAccepted() {
+        return accepted;
+    }
+
+    public void setAccepted(boolean accepted) {
+        this.accepted = accepted;
     }
 }
