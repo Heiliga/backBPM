@@ -55,8 +55,8 @@ public class VacationApprovalStarted implements JavaDelegate {
         vacation.setEmployee(employee);
 
         LocalDate currentDate = dateTimeService.getCurrentDate();
-        vacation.setStart(currentDate.plusWeeks(2));
-        vacation.setEnd(currentDate.plusWeeks(2).plusDays(7));
+        vacation.setStart(currentDate);
+        vacation.setEnd(currentDate.plusWeeks(2));
 
         return vacation;
     }

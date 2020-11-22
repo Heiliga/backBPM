@@ -1,0 +1,10 @@
+CREATE TABLE SAVEVACATION
+(
+    id NUMBER PRIMARY KEY,
+    employee_id NUMBER NOT NULL,
+    save_date DATE NOT NULL,
+    start DATE NOT NULL,
+    end DATE NOT NULL,
+    FOREIGN KEY (employee_id)  REFERENCES EMPLOYEE (Id)
+);
+CREATE SEQUENCE sq_save_vacation_id START WITH 1 INCREMENT BY 1;
